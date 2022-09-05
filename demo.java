@@ -6,3 +6,4 @@ class Demo
          s.o.print(" Hello World!"); 
      }
   }
+hello
