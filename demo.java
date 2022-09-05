@@ -5,5 +5,10 @@ class Demo
          s.o.print(" Hello World!"); 
          s.o.print(" Hello World!"); 
      }
+<<<<<<< HEAD
   }
 hello
+=======
+  }  
+haii
+>>>>>>> devops
